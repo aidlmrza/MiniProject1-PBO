@@ -125,27 +125,6 @@ public class User {
         }
     }
 
-
-    public static void cariKaryaSeni() {
-        System.out.println("==============================================");
-        System.out.print(" Masukkan judul karya seni yang ingin dicari: ");
-        String judul = scanner.nextLine();
-        boolean ditemukan = false;
-
-        for (KaryaSeni karya : koleksi) {
-            if (karya.getJudul().equalsIgnoreCase(judul)) {
-                System.out.println("=======================");
-                System.out.println(" Karya seni ditemukan: ");
-                karya.tampilkanDetail();
-                ditemukan = true;
-                break;
-            }
-        }
-
-        if (!ditemukan) {
-            System.out.println("Karya seni tidak ditemukan.");
-        }
-    }
     
     
     public static void main(String[] args) {
@@ -160,7 +139,6 @@ public class User {
             System.out.println(" 2. Tampilkan Koleksi");
             System.out.println(" 3. Hapus Karya Seni");
             System.out.println(" 4. Edit Karya Seni");
-            System.out.println(" 5. Cari Karya Seni");
             System.out.println(" 0. Keluar");
             System.out.print(" Pilih opsi: ");
             pilihan = scanner.nextInt();
@@ -178,9 +156,6 @@ public class User {
                     break;
                 case 4:
                     editKaryaSeni();
-                    break;
-                case 5:
-                    cariKaryaSeni();
                     break;
                 case 0:
                     System.out.println("=================================");
