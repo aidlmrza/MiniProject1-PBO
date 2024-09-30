@@ -164,6 +164,7 @@ public class User {
             System.out.println(" 0. Keluar");
             System.out.print(" Pilih opsi: ");
             pilihan = scanner.nextInt();
+            scanner.nextLine();
 
             switch (pilihan) {
                 case 1:
