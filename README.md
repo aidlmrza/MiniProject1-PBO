@@ -8,7 +8,7 @@ NIM: 2309116040
 Program mengenai Koleksi Karya Seni Digital yang dimiliki user, user dapat melakukan CRUD pada koleksi yang dimiliki.
 # Output Program
 ## Menu Utama
-![image](https://github.com/user-attachments/assets/54b74630-6b65-4e1d-90b2-bdb51a02993e) 
+![image](https://github.com/user-attachments/assets/db0c7cff-40bf-4d59-8aa4-1424dadaf5ec)
 
 Pada menu ini user dapat memilih beberapa pilihan yaitu: Tambah Karya Seni, Tampilkan Koleksi, Hapus Karya Seni, Cari Karya Seni, dan keluar.
 ### Pilih Tambah Karya Seni
@@ -31,7 +31,10 @@ Ini adalah tampilan jika kita ingin menghapus Karya Seni pada koleksi kita, kita
 
 Ini adalah tampilan jika kita ingin mengedit data dari Karya Seni yang ada pada koleksi kita, kita akan diminta untuk memasukkan judul Karya Seni yang ingin diubah, lalu Memasukkan judul, nama artis, tahun yang ingin kita ubah.
 
+### Pilih Keluar
+![image](https://github.com/user-attachments/assets/774eec1d-64ff-46e4-9aa7-325eb89a27f7)
 
+Ini adalah tampilan jika kita memilih untuk keluar, maka kita akan keluar dari program dan program berhenti.
 
 
 
