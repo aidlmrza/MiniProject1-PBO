@@ -8,5 +8,5 @@ Program mengenai Koleksi Karya Seni Digital yang dimiliki user, user dapat melak
 # Output Program
 ## Menu Utama
 ![image](https://github.com/user-attachments/assets/54b74630-6b65-4e1d-90b2-bdb51a02993e) 
-\n Pada menu ini user dapat memilih beberapa pilihan yaitu: Tambah Karya Seni, Tampilkan Koleksi, Hapus Karya Seni, Cari Karya Seni, dan keluar.
+Pada menu ini user dapat memilih beberapa pilihan yaitu: Tambah Karya Seni, Tampilkan Koleksi, Hapus Karya Seni, Cari Karya Seni, dan keluar.
 ##
