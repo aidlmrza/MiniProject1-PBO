@@ -11,4 +11,8 @@ Program mengenai Koleksi Karya Seni Digital yang dimiliki user, user dapat melak
 ![image](https://github.com/user-attachments/assets/54b74630-6b65-4e1d-90b2-bdb51a02993e) 
 
 Pada menu ini user dapat memilih beberapa pilihan yaitu: Tambah Karya Seni, Tampilkan Koleksi, Hapus Karya Seni, Cari Karya Seni, dan keluar.
-##
+### Pilih Tambah Karya Seni
+![image](https://github.com/user-attachments/assets/60337130-dfbc-4494-ae1c-996912f40031)
+
+Ini adalah tampilan jika kita ingin menambahkan suatu karya seni ke dalam koleksi.
+
