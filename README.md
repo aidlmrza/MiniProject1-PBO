@@ -7,7 +7,7 @@ NIM: 2309116040
 # Deskripsi
 Program mengenai Koleksi Karya Seni Digital yang dimiliki user, user dapat melakukan CRUD pada koleksi yang dimiliki.
 # Cara kerja program
-## class
+## Class
 ![image](https://github.com/user-attachments/assets/ff20f6ba-c294-4dfc-8d8a-b8a0fc7b7077)
 
 - Main.java adalah file utama untuk menjalankan program yang berisi tampilan untuk user.
@@ -15,6 +15,19 @@ Program mengenai Koleksi Karya Seni Digital yang dimiliki user, user dapat melak
 - KaryaSeniGif.java dan KaryaSeniIlustrasi.java merupakan child class dari KaryaSeni.java.
 - CRUDKaryaSeni.java adalah interface untuk method CRUD yang akan diterapkan oleh user.
 - User.java adalah file yang berisi koleksi karya seni dan juga method CRUD.
+
+## Property
+- Main.java
+  ![image](https://github.com/user-attachments/assets/b060a326-0509-4678-9b3a-9b4fedc6f045)
+
+- User.java
+  ![image](https://github.com/user-attachments/assets/b5d9e093-d76e-44df-8883-c0b0d746a23c)
+
+- KaryaSeni.java
+- KaryaSeniIlustrasi.java
+- KaryaSeniGif.java
+
+
 
 # Output Program
 ## Menu Utama
