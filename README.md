@@ -18,7 +18,9 @@ Program mengenai Koleksi Karya Seni Digital yang dimiliki user, user dapat melak
 
 ## Property
 - Main.java
+
   Pada Main.java hanya ada local property yang dibuat untuk menyimpan inputan.
+
   ![image](https://github.com/user-attachments/assets/b060a326-0509-4678-9b3a-9b4fedc6f045)
 
 - User.java
