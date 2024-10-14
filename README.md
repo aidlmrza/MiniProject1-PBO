@@ -24,6 +24,7 @@ Program mengenai Koleksi Karya Seni Digital yang dimiliki user, user dapat melak
   ![image](https://github.com/user-attachments/assets/b060a326-0509-4678-9b3a-9b4fedc6f045)
 
 - User.java
+  
   Terdapat property untuk akun user dan ada juga ArrayList koleksi untuk menyimpan koleksi karya seni yang dimiliki user
   
   ![image](https://github.com/user-attachments/assets/b5d9e093-d76e-44df-8883-c0b0d746a23c)
@@ -40,7 +41,24 @@ Program mengenai Koleksi Karya Seni Digital yang dimiliki user, user dapat melak
 
   ![image](https://github.com/user-attachments/assets/5978148c-c2ea-40fd-b3fa-b6c18c13873d)
 
-## Method
+## Constructor
+- User.java
+
+  ![image](https://github.com/user-attachments/assets/89c45a4c-f9da-490e-9a55-99ddf5c8188b)
+
+- KaryaSeni.java
+
+  ![image](https://github.com/user-attachments/assets/cd25751a-7cfd-4315-980f-4b568dd6cc78)
+
+- KaryaSeniIlustrasi.java
+  
+  ![image](https://github.com/user-attachments/assets/6ca69a20-fa34-478f-9a06-f79abf2a118a)
+
+- KaryaSeniGif.java
+
+  ![image](https://github.com/user-attachments/assets/d63d24bd-fc6d-4b86-ad4f-b58da190f7bf)
+
+
 
 # Output Program
 ## Menu Utama
